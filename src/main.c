@@ -26,3 +26,8 @@ static void prvSetupHardware(void)
 {
 
 }
+
+void vApplicationIdleHook( void )
+{
+
+}
