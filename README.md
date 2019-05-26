@@ -4,7 +4,7 @@ A template project with FreeRTOS on STM32F407VGT6 microcontroller.
 
 <p align="center">
   <img width="460" height="300" src="images/board.jpg">
-  <br>A STM32F4Discovery board with flashind green LED 
+  <br>A STM32F4Discovery board with blinking green LED 
 </p>
 
 
